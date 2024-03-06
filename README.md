@@ -1,8 +1,11 @@
 - 👋 Hi, I’m Tyson
-- 👀 I have recently begun
-- 🌱 I’m currently learning via the Odin Project, about how to get started with programming and asking for help before doing web development bootcamps for the next 6 months
-- 💞️ I’m looking to collaborate on a growing list of topics, but right now it is about learning how to think like a programmer.
-- 📫 How to reach me: Github and LinkedIn(https://www.linkedin.com/in/tyson-larocque)
+- Favourite project/repo: QuickScope - a peer-to-peer rental marketplace for telescopes
+- My background is in Physics, 
+- Started with Python and C in University,
+- Began diving into JavaScript through BrainStation's software engineering bootcamp,
+- TypeScript since my internship began at Microsoft (September 2023)
+- Open to learning more!
+- How to reach me: Github and LinkedIn(https://www.linkedin.com/in/tyson-larocque)
 
 <!---
 Teesgit123/Teesgit123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
